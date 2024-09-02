@@ -1,3 +1,3 @@
-hello i am Hexer
-i do things on the computer
-cool things, that is
+<p>hello i am Hexer</p>
+<p>i do things on the computer</p>
+<p>cool things, that is</p>
